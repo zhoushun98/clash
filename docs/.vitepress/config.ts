@@ -5,12 +5,12 @@ import locales from './locales'
 export default defineConfig({
   title: 'Clash',
 
-  base: '/clash/',
+  base: '/',
 
   head: [
     [
       'link',
-      { rel: 'icon', type: "image/x-icon", href: '/clash/logo.png' }
+      { rel: 'icon', type: "image/x-icon", href: '/logo.png' }
     ],
   ],
 
